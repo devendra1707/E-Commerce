@@ -36,7 +36,7 @@ const CustomerRoutes = () => {
      <Route path="/login" element={<Homepage />}></Route>
      <Route path="/register" element={<Homepage />}></Route>
 
-        <Route path="/" element={<Homepage />}></Route>
+        <Route path="/*" element={<Homepage />}></Route>
         <Route path="/home" element={<Homepage />}></Route>
         <Route path="/about" element={<About />}></Route>
         <Route path="/privaciy-policy" element={<PrivacyPolicy />}></Route>
