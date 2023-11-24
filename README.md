@@ -1,10 +1,9 @@
-# Shop With Zosh
+# E Commerce
 
-### website
-https://shopwithzosh.vercel.app/
+
 
 ### server spring boot
-https://github.com/ashok0001/e-commerce-server
+https://github.com/devendra1707/E-Commerce
 
 
 
